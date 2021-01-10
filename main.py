@@ -1,3 +1,9 @@
 #!/usr/bin/python3
 
-print ("ich liebe dich")
+def main(msg)
+    print (msg)
+
+main(begeistert)
+
+
+
